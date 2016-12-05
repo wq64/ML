@@ -1,2 +1,2 @@
 # ML
-some algorithms
+some codes about Deep Learning
